@@ -2,8 +2,6 @@
 
 This is a solution for classification problem.
 
-![alt text](http://www.google.com/search?q=titanic&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjWxKCckaPkAhWIAxAIHfHTA7QQ_AUIEygC&biw=1920&bih=937#imgrc=z1Twt5KqXsrygM:/to/img.png)
-
 ## Getting Started
 
 Template code is provided in the notebook titanic.ipynb
