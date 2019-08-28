@@ -1,6 +1,6 @@
 ## Titanic: Machine Learning from Disaster 
 
-This is a solution for classification problem.
+This is a 'top 20%' solution for classification problem.
 
 ## Getting Started
 
