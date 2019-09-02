@@ -1,7 +1,5 @@
 ## Titanic: Machine Learning from Disaster 
 
-This is a 'top 20%' solution for classification problem.
-
 ## Getting Started
 
 Template code is provided in the notebook titanic.ipynb
