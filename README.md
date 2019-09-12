@@ -1,5 +1,7 @@
 ## Titanic: Machine Learning from Disaster 
 
+Kaggle Competition: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanics).
+
 ## Getting Started
 
 Template code is provided in the notebook titanic.ipynb
